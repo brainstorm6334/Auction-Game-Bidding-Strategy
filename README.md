@@ -1,6 +1,6 @@
 # Auction Game Bidding Strategy
 
-A strategy to with the Auction Game
+A strategy to win the 'Auction Game'
 
 # Synopsis
 
@@ -31,7 +31,7 @@ Continuum's [Anaconda](https://www.continuum.io/why-anaconda)
 
 # Credits
 
-The backbone of the game is programmed by Prof. Dennis Shasha. A UI version of the Auction game is available at his website [Dr.Ecco](http://cims.nyu.edu/drecco/)
+The backbone of the game is programmed by Prof. Dennis Shasha. A UI version of the Auction game is available at his website ['Dr.Ecco'](http://cims.nyu.edu/drecco/)
 
 # [Website]( http://brainstorm6334.github.io/Auction-Game-Bidding-Strategy)
 
