@@ -1,4 +1,4 @@
-# Auction-Game-Bidding-Strategy
+# Auction Game Bidding Strategy
 
 A strategy to with the Auction Game
 
