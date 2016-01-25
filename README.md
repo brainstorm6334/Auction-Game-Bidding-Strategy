@@ -33,6 +33,8 @@ Continuum's [Anaconda](https://www.continuum.io/why-anaconda)
 
 The backbone of the game is programmed by Prof. Dennis Shasha. A UI version of the Auction game is available at his website ['Dr.Ecco'](http://cims.nyu.edu/drecco/)
 
+The bidding strategy was developed in collaboration with Yana Chala.
+
 # [Website]( http://brainstorm6334.github.io/Auction-Game-Bidding-Strategy)
 
 
